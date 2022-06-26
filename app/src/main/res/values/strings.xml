@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tdelete</string>
+
+    <string-array name="image_name">
+        <item>A image</item>
+        <item>B image</item>
+        <item>C image</item>
+        <item>D image</item>
+        <item>E image</item>
+        <item>F image</item>
+        <item>G image</item>
+        <item>H image</item>
+        <item>I image</item>
+        <item>J image</item>
+    </string-array>
+</resources>
